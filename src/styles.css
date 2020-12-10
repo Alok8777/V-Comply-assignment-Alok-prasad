@@ -1,0 +1,56 @@
+body {
+  background-color: wheat;
+}
+.App {
+  font-family: sans-serif;
+  height: 100%;
+  width: 1000px;
+}
+
+.type {
+  color: rgb(255, 80, 211);
+}
+
+.resultButton {
+  background-color: rgb(159, 158, 221);
+}
+
+.submitbutton {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(195, 219, 139);
+}
+
+.levels {
+  font-weight: bold;
+  color: rgb(8, 172, 81);
+}
+.levelname {
+  color: forestgreen;
+}
+
+.buttons {
+  margin-left: 10px;
+}
+
+.buttongroup {
+  display: flex;
+  margin: 10px;
+}
+
+.box {
+  height: 100px;
+  width: 300px;
+  border: 1px solid greenyellow;
+  margin-top: 10px;
+  margin-left: 100px;
+  background-color: darkgrey;
+}
+
+.name {
+  color: darkorange;
+}
+
+.result {
+  color: darkmagenta;
+}
